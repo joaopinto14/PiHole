@@ -1,6 +1,6 @@
 # Author: João Pinto
 # GitHub: https://github.com/joaopinto14
-# Version: 1.3
+# Version: 1.4
 
 # [smartadserver] #
 
@@ -167,3 +167,38 @@
 # [adform] #
 
 :: track.adform.net
+:: s2.adform.net
+
+
+# [mixbenign] #
+
+:: mixbenign.com
+
+# [venetrigni] #
+
+:: venetrigni.com
+
+
+# [prettypasttime] #
+
+:: prettypasttime.com
+
+
+# [yahblemable] #
+
+:: yahblemable.com
+
+
+# [optnx] #
+
+:: s.optnx.com
+
+
+# [trafficmoose] #
+
+:: xml.trafficmoose.com
+
+
+# [doubleclick] #
+
+:: stats.g.doubleclick.net
