@@ -1,6 +1,6 @@
 # Author: João Pinto
 # GitHub: https://github.com/joaopinto14
-# Version: 1.8.1
+# Version: 1.9
 
 # [smartadserver] #
 
@@ -96,6 +96,7 @@
 # [google] #
 
 :: adservice.google.com
+:: www.googleadservices.com
 
 
 # [betotodilea] #
@@ -198,6 +199,8 @@
 
 :: stats.g.doubleclick.net
 :: adclick.g.doubleclick.net
+:: googleads.g.doubleclick.net
+:: ad.doubleclick.net
 
 
 # [trackitalltheway] #
@@ -419,3 +422,4 @@
 # [unphionetor] #
 
 :: unphionetor.com
+
