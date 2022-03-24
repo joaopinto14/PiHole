@@ -1,6 +1,6 @@
 # Author: João Pinto
 # GitHub: https://github.com/joaopinto14
-# Version: 1.10
+# Version: 1.11
 
 # [smartadserver] #
 
@@ -97,6 +97,7 @@
 
 :: adservice.google.com
 :: www.googleadservices.com
+::pagead2.googleadservices.com
 
 
 # [betotodilea] #
@@ -445,3 +446,24 @@
 # [servenobid] #
 
 :: ads.servenobid.com
+
+
+# [googlesyndication] #
+
+:: tpc.googlesyndication.com
+
+
+# [ggpht] #
+
+:: yt3.ggpht.com
+
+
+# [siyfihrtsdgyb] #
+
+
+:: siyfihrtsdgyb.com
+
+
+# [jomtingi] #
+
+:: jomtingi.net
