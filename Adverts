@@ -1,6 +1,6 @@
 # Author: João Pinto
 # GitHub: https://github.com/joaopinto14
-# Version: 1.13
+# Version: 1.13.1
 
 # [smartadserver] #
 
@@ -97,7 +97,7 @@
 
 :: adservice.google.com
 :: www.googleadservices.com
-::pagead2.googleadservices.com
+:: pagead2.googleadservices.com
 
 
 # [betotodilea] #
