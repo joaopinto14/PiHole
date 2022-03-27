@@ -1,6 +1,6 @@
 # Author: João Pinto
 # GitHub: https://github.com/joaopinto14
-# Version: 1.15
+# Version: 1.16
 
 # [smartadserver] #
 
@@ -527,3 +527,15 @@
 # [lookofookomooki] #
 
 :: lookofookomooki.com
+
+
+# [zencdn] #
+
+:: vjs.zencdn.net
+
+
+# [moonicorn] #
+
+:: viewm.moonicorn.network
+:: ipfs.moonicorn.network
+:: market.moonicorn.network
