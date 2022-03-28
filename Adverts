@@ -1,6 +1,6 @@
 # Author: João Pinto
 # GitHub: https://github.com/joaopinto14
-# Version: 1.15
+# Version: 1.16
 
 # [smartadserver] #
 
@@ -98,6 +98,7 @@
 :: adservice.google.com
 :: www.googleadservices.com
 :: pagead2.googleadservices.com
+:: google-analytics.com
 
 
 # [betotodilea] #
@@ -527,3 +528,8 @@
 # [lookofookomooki] #
 
 :: lookofookomooki.com
+
+
+# [1e100] #
+
+:: mad41s07-in-f2.1e100.net
