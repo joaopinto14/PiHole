@@ -1,6 +1,6 @@
 # Author: João Pinto
 # GitHub: https://github.com/joaopinto14
-# Version: 1.20.1.1
+# Version: 1.20.1.2
 
 # [smartadserver] #
 
@@ -532,14 +532,14 @@
 
 # [zencdn] #
 
-:: vjs.zencdn.net
+#:: vjs.zencdn.net
 
 
 # [moonicorn] #
 
-#:: viewm.moonicorn.network
-#:: ipfs.moonicorn.network
-#:: market.moonicorn.network
+:: viewm.moonicorn.network
+:: ipfs.moonicorn.network
+:: market.moonicorn.network
 
 
 # [luulibaluli] #
@@ -580,3 +580,7 @@
 # [cloudfront] #
 
 :: dyh1wzegu1j6z.cloudfront.net
+
+
+:: noobydoobi.com
+
