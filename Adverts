@@ -1,6 +1,6 @@
 # Author: João Pinto
 # GitHub: https://github.com/joaopinto14
-# Version: 1.24.1
+# Version: 1.25
 
 
 # [smartadserver] #
@@ -100,6 +100,8 @@
 :: www.googleadservices.com
 :: pagead2.googleadservices.com
 :: google-analytics.com
+:: www.google-analytics.com
+:: ssl.google-analytics.com
 
 
 # [betotodilea] #
@@ -584,11 +586,6 @@
 :: noobydoobi.com
 
 
-# [google-analytics] #
-
-:: www.google-analytics.com
-
-
 # [quantcount] #
 
 :: rules.quantcount.com
@@ -662,3 +659,23 @@
 :: beacons3.gvt3.com
 :: beacons4.gvt3.com
 :: beacons5.gvt3.com
+
+
+# [scorecardresearch] #
+
+:: sb.scorecardresearch.com
+
+
+# [pubnative] #
+
+:: pubnative.info
+
+
+# [amazon-adsystem] #
+
+:: mads.amazon-adsystem.com
+
+
+# [truste] #
+
+:: privacy-policy.truste.com
