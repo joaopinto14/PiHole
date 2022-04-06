@@ -1,6 +1,6 @@
 # Author: João Pinto
 # GitHub: https://github.com/joaopinto14
-# Version: 1.22.1
+# Version: 1.23
 
 # [smartadserver] #
 
@@ -631,6 +631,7 @@
 :: beacons4.gvt2.com
 :: beacons5.gvt2.com
 :: beacons.gcp.gvt2.com
+:: e2c33.gcp.gvt2.com
 
 
 # [gvt3] #
