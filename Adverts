@@ -2,6 +2,7 @@
 # GitHub: https://github.com/joaopinto14
 # Version: 1.24
 
+
 # [smartadserver] #
 
 :: www8.smartadserver.com
@@ -575,6 +576,7 @@
 # [cloudfront] #
 
 :: dyh1wzegu1j6z.cloudfront.net
+:: ddlh1467paih3.cloudfront.net
 
 
 # [noobydoobi] #
@@ -584,24 +586,79 @@
 
 # [google-analytics] #
 
-www.google-analytics.com
+:: www.google-analytics.com
 
 
 # [quantcount] #
 
-rules.quantcount.com
+:: rules.quantcount.com
 
 
 # [quantserve] #
 
-pixel.quantserve.com
+:: pixel.quantserve.com
 
 
 # [jwpltx] #
 
-prd.jwpltx.com
+:: prd.jwpltx.com
 
 
 # [frontline] #
 
-smetrics.frontline.co.th
+:: smetrics.frontline.co.th
+
+
+# [nuumitgoobli] #
+
+:: nuumitgoobli.com
+
+
+# [mittencells] #
+
+:: mittencells.com
+
+
+# [akutapro] #
+
+:: akutapro.com
+
+
+# [gaming1] #
+
+:: ads.gaming1.com
+
+
+# [sleepxoomit] #
+
+:: sleepxoomit.com
+
+
+# [gvt1] #
+
+:: beacons.gvt1.com
+:: beacons2.gvt1.com
+:: beacons3.gvt1.com
+:: beacons4.gvt1.com
+:: beacons5.gvt1.com
+:: edgedl.me.gvt1.com
+
+
+# [gvt2] #
+
+:: beacons.gvt2.com
+:: beacons2.gvt2.com
+:: beacons3.gvt2.com
+:: beacons4.gvt2.com
+:: beacons5.gvt2.com
+:: beacons.gcp.gvt2.com
+:: e2c33.gcp.gvt2.com
+
+
+# [gvt3] #
+
+:: beacons.gvt3.com
+:: beacons2.gvt3.com
+:: beacons3.gvt3.com
+:: beacons4.gvt3.com
+:: beacons5.gvt3.com
