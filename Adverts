@@ -1,6 +1,6 @@
 # Author: João Pinto
 # GitHub: https://github.com/joaopinto14
-# Version: 1.20.1.2
+# Version: 1.24
 
 # [smartadserver] #
 
@@ -530,11 +530,6 @@
 :: mad41s07-in-f2.1e100.net
 
 
-# [zencdn] #
-
-#:: vjs.zencdn.net
-
-
 # [moonicorn] #
 
 :: viewm.moonicorn.network
@@ -582,5 +577,31 @@
 :: dyh1wzegu1j6z.cloudfront.net
 
 
+# [noobydoobi] #
+
 :: noobydoobi.com
 
+
+# [google-analytics] #
+
+www.google-analytics.com
+
+
+# [quantcount] #
+
+rules.quantcount.com
+
+
+# [quantserve] #
+
+pixel.quantserve.com
+
+
+# [jwpltx] #
+
+prd.jwpltx.com
+
+
+# [frontline] #
+
+smetrics.frontline.co.th
