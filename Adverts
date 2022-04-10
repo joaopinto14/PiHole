@@ -1,6 +1,6 @@
 # Author: João Pinto
 # GitHub: https://github.com/joaopinto14
-# Version: 1.25
+# Version: 1.26
 
 
 # [smartadserver] #
@@ -679,3 +679,15 @@
 # [truste] #
 
 :: privacy-policy.truste.com
+
+
+# [millionsview] #
+
+:: api.millionsview.com
+
+
+# [adjust] #
+
+:: app.adjust.world
+:: app.adjust.net.in
+:: app.adjust.com
