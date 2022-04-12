@@ -1,6 +1,6 @@
 # Author: João Pinto
 # GitHub: https://github.com/joaopinto14
-# Version: 1.26
+# Version: 1.27
 
 
 # [smartadserver] #
@@ -691,3 +691,8 @@
 :: app.adjust.world
 :: app.adjust.net.in
 :: app.adjust.com
+
+
+# [snapchat] #
+
+:: app-analytics-v2.snapchat.com
