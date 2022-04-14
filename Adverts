@@ -1,6 +1,6 @@
 # Author: João Pinto
 # GitHub: https://github.com/joaopinto14
-# Version: 1.34
+# Version: 1.35
 
 
 # [smartadserver] #
@@ -976,6 +976,24 @@
 :: ad.intl.xiaomi.com
 :: ad.xiaomi.com
 :: stat.xiaomi.com
+:: sdkconfig.ad.intl.xiaomi.com
+:: api.ad.xiaomi.com
+:: cdn.ad.xiaomi.com
+:: e.ad.xiaomi.com
+:: test.e.ad.xiaomi.com
+:: globalapi.ad.xiaomi.com
+:: sdkconfig.ad.xiaomi.com
+:: test.ad.xiaomi.com
+:: zeus.ad.xiaomi.com
+:: sgp.o2o.api.xiaomi.com
+:: api.d.xiaomi.com
+:: data.mistat.intl.xiaomi.com
+:: storeconfig.mistat.intl.xiaomi.com
+:: cc.sys.intl.xiaomi.com
+:: ccc.sys.intl.xiaomi.com
+:: abtest.mistat.xiaomi.com
+:: data.mistat.xiaomi.com
+:: a.stat.xiaomi.com
 
 
 # [admob] #
@@ -987,3 +1005,45 @@
 :: m.admob.com
 :: admob.com
 :: jp.admob.com
+
+
+# [miui] #
+
+:: tracking.india.miui.com
+:: tracking.rus.miui.com
+:: api.sec.miui.com
+:: logupdate.avlyun.sec.miui.com
+:: tracking.miui.com
+:: sa.api.intl.miui.com
+:: api.brs.intl.miui.com
+:: api.collect.data.intl.miui.com
+:: adv.sec.intl.miui.com
+:: api.sec.intl.miui.com
+:: authbe.sec.intl.miui.com
+:: data.sec.intl.miui.com
+:: flash.sec.intl.miui.com
+:: api.setting.intl.miui.com
+:: tracking.intl.miui.com
+:: cc.sys.miui.com
+:: ccc.sys.miui.com
+:: geofence.sys.miui.com
+:: fcanr.tracking.miui.com
+
+
+# [microsoft] #
+
+:: bingads.microsoft.com
+:: advertise.bingads.microsoft.com
+:: c1.microsoft.com
+:: browser.pipe.aria.microsoft.com
+:: mobile.pipe.aria.microsoft.com
+:: v10c.events.data.microsoft.com
+:: web.vortex.data.microsoft.com
+:: sqm.telemetry.microsoft.com
+:: telecommand.telemetry.microsoft.com
+:: watson.telemetry.microsoft.com
+:: smetric.ads.microsoft.com
+:: reports.wes.df.telemetry.microsoft.com
+:: statsfe2.ws.microsoft.com
+:: wes.df.telemetry.microsoft.com
+:: target.microsoft.com
