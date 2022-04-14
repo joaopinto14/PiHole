@@ -1,6 +1,6 @@
 # Author: João Pinto
 # GitHub: https://github.com/joaopinto14
-# Version: 1.32.2
+# Version: 1.33
 
 
 # [smartadserver] #
@@ -188,6 +188,21 @@
 :: smartlock.google.com
 :: ads.google.com
 :: s0-2mdn-net.l.google.com
+:: pagead-googlehosted.l.google.com
+:: www.google-analytics.l.google.com
+:: adservice.google.ca
+:: adservice.google.co.za
+:: adservice.google.com.au
+:: adservice.google.cz
+:: adservice.google.nl
+:: adservice.google.co.jp
+:: ssl-google-analytics.l.google.com
+:: adservice.google.com.mt
+:: analytics.google.com
+:: mail-ads.google.com
+:: pagead.l.google.com
+:: partnerad.l.google.com
+:: www-google-analytics.l.google.com
 
 
 # [google-analytics] #
