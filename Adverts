@@ -1,6 +1,6 @@
 # Author: João Pinto
 # GitHub: https://github.com/joaopinto14
-# Version: 1.32
+# Version: 1.32.1
 
 
 # [smartadserver] #
@@ -219,7 +219,6 @@
 # [googleadsserving] #
 
 :: static.googleadsserving.cn
-
 
 
 # [betotodilea] #
