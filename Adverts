@@ -1,6 +1,6 @@
 # Author: João Pinto
 # GitHub: https://github.com/joaopinto14
-# Version: 1.31
+# Version: 1.31.1
 
 
 # [smartadserver] #
@@ -334,7 +334,6 @@
 :: 2542116.fls.doubleclick.net
 :: 4053494.fls.doubleclick.net
 :: 4236808.fls.doubleclick.net
-
 :: ad-g.doubleclick.net
 :: ad2.doubleclick.net
 :: ad.ae.doubleclick.net
@@ -412,9 +411,6 @@
 :: doubleclick.ne.jp
 :: n4061ad.jp.doubleclick.net
 
-
-
-googlesyndication # TODO
 
 # [trackitalltheway] #
 
