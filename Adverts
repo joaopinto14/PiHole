@@ -1,6 +1,6 @@
 # Author: João Pinto
 # GitHub: https://github.com/joaopinto14
-# Version: 1.27
+# Version: 1.28
 
 
 # [smartadserver] #
@@ -207,7 +207,116 @@
 :: googleads.g.doubleclick.net
 :: ad.doubleclick.net
 :: securepubads.g.doubleclick.net
+:: doubleclick.net
+:: accounts.doubleclick.net
+:: ad-emea.doubleclick.net
+:: ff.doubleclick.net
+:: fls.doubleclick.net
+:: 3243857.fls.doubleclick.net
+:: 8272590.fls.doubleclick.net
+:: 8397396.fls.doubleclick.net
+:: g.doubleclick.net
+:: adx.g.doubleclick.net
+:: bid.g.doubleclick.net
+:: cm.g.doubleclick.net
+:: googleads4.g.doubleclick.net
+:: pubads.g.doubleclick.net
+:: survey.g.doubleclick.net
+:: g1.doubleclick.net
+:: ads-bid.l.doubleclick.net
+:: dart.l.doubleclick.net
+:: partnerad.l.doubleclick.net
+:: stats.l.doubleclick.net
+:: m.doubleclick.net
+:: s0.doubleclick.net
+:: static.doubleclick.net
+:: 4436230.fls.doubleclick.net
+:: www.4436230.fls.doubleclick.net
+:: 4448269.fls.doubleclick.net
+:: www.4448269.fls.doubleclick.net
+:: 3642305.fls.doubleclick.net
+:: 3765329.fls.doubleclick.net
+:: 4514783.fls.doubleclick.net
+:: 4923503.fls.doubleclick.net
+:: 4942839.fls.doubleclick.net
+:: 5582200.fls.doubleclick.net
+:: 8210643.fls.doubleclick.net
+:: 8482194.fls.doubleclick.net
+:: 8563004.fls.doubleclick.net
+:: pagead.l.doubleclick.net
+:: pagead46.l.doubleclick.net
+:: undefined.fls.doubleclick.net
+:: 5362399.fls.doubleclick.net
+:: dp.g.doubleclick.net
+:: 1435575.fls.doubleclick.net
+:: 2542116.fls.doubleclick.net
+:: 4053494.fls.doubleclick.net
+:: 4236808.fls.doubleclick.net
 
+:: ad-g.doubleclick.net
+:: ad2.doubleclick.net
+:: ad.ae.doubleclick.net
+:: ad.ar.doubleclick.net
+:: ad.at.doubleclick.net
+:: ad.au.doubleclick.net
+:: ad.be.doubleclick.net
+:: ad.br.doubleclick.net
+:: ad.ca.doubleclick.net
+:: ad.ch.doubleclick.net
+:: ad.cl.doubleclick.net
+:: ad.cn.doubleclick.net
+:: ad.de.doubleclick.net
+:: ad.dk.doubleclick.net
+:: ad.es.doubleclick.net
+:: ad.fi.doubleclick.net
+:: ad.fr.doubleclick.net
+:: ad.gr.doubleclick.net
+:: ad.hk.doubleclick.net
+:: ad.hr.doubleclick.net
+:: ad.hu.doubleclick.net
+:: ad.ie.doubleclick.net
+:: ad.in.doubleclick.net
+:: ad.jp.doubleclick.net
+:: ad.kr.doubleclick.net
+:: ad.it.doubleclick.net
+:: ad.nl.doubleclick.net
+:: ad.no.doubleclick.net
+:: ad.nz.doubleclick.net
+:: ad.pl.doubleclick.net
+:: ad.pt.doubleclick.net
+:: ad.ro.doubleclick.net
+:: ad.ru.doubleclick.net
+:: ad.se.doubleclick.net
+:: ad.sg.doubleclick.net
+:: ad.si.doubleclick.net
+:: ad.terra.doubleclick.net
+:: ad.th.doubleclick.net
+:: ad.tw.doubleclick.net
+:: ad.uk.doubleclick.net
+:: ad.us.doubleclick.net
+:: ad.za.doubleclick.net
+:: ad.n2434.doubleclick.net
+:: creatives.doubleclick.net
+:: dfp.doubleclick.net
+:: feedads.g.doubleclick.net
+:: fls.uk.doubleclick.net
+:: ir.doubleclick.net
+:: iv.doubleclick.net
+:: n4052ad.doubleclick.net
+:: n4403ad.doubleclick.net
+:: n479ad.doubleclick.net
+:: paypalssl.doubleclick.net
+:: s2.video.doubleclick.net
+:: www3.doubleclick.net
+:: www.doubleclick.net
+:: doubleclick.com
+:: www2.doubleclick.com
+:: www3.doubleclick.com
+:: www.doubleclick.com
+
+
+
+googlesyndication # TODO
 
 # [trackitalltheway] #
 
@@ -696,3 +805,4 @@
 # [snapchat] #
 
 :: app-analytics-v2.snapchat.com
+
