@@ -1,6 +1,6 @@
 # Author: João Pinto
 # GitHub: https://github.com/joaopinto14
-# Version: 1.33
+# Version: 1.34
 
 
 # [smartadserver] #
@@ -962,3 +962,28 @@
 :: admobclick.com
 :: www.admobclick.com
 :: pixel.admobclick.com
+
+
+# [xiaomi] #
+
+:: log.ad.xiaomi.com
+:: track.ad.xiaomi.com
+:: data.mistat.india.xiaomi.com
+:: diagnosis.ad.intl.xiaomi.com
+:: zeus.ad.intl.xiaomi.com
+:: data.mistat.rus.xiaomi.com
+:: api.ad.intl.xiaomi.com
+:: ad.intl.xiaomi.com
+:: ad.xiaomi.com
+:: stat.xiaomi.com
+
+
+# [admob] #
+
+:: apps.admob.com
+:: media.admob.com
+:: c.admob.com
+:: l.admob.com
+:: m.admob.com
+:: admob.com
+:: jp.admob.com
