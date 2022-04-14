@@ -1,6 +1,6 @@
 # Author: João Pinto
 # GitHub: https://github.com/joaopinto14
-# Version: 1.29
+# Version: 1.29.1
 
 
 # [smartadserver] #
@@ -321,7 +321,7 @@
 :: googleads2.g.doubleclick.net
 :: n4061ad.hk.doubleclick.net
 :: ad-ace.doubleclick.net
-:: ad.bg.doubleclick.net
+:: www.doubleclick.ne.jp
 :: fls.au.doubleclick.net
 :: www.doubleclickbygoogle.com
 :: qevia.doubleclick.bond
@@ -330,8 +330,6 @@
 :: ad.my.doubleclick.net
 :: doubleclick.ne.jp
 :: n4061ad.jp.doubleclick.net
-:: www.doubleclick.ne.jp
-
 
 
 googlesyndication # TODO
