@@ -1,6 +1,6 @@
 # Author: João Pinto
 # GitHub: https://github.com/joaopinto14
-# Version: 1.31
+# Version: 1.32
 
 
 # [smartadserver] #
@@ -129,6 +129,9 @@
 # [eacdn] #
 
 :: wlbetclicpt.adsrv.eacdn.com
+:: eacdn.com
+:: sportingbeteur.adsrv.eacdn.com
+:: adsrv.eacdn.com
 
 
 # [yahblemable] #
@@ -179,11 +182,44 @@
 # [google] #
 
 :: adservice.google.com
-:: www.googleadservices.com
-:: pagead2.googleadservices.com
+:: adservice.google.co.in
+:: adservice.google.com.vn
+:: adservice.google.be
+:: smartlock.google.com
+:: ads.google.com
+:: adservice.google.com
+:: s0-2mdn-net.l.google.com
+
+
+# [google-analytics] #
+
 :: google-analytics.com
 :: www.google-analytics.com
 :: ssl.google-analytics.com
+
+
+# [googleanalytics] #
+
+:: ssl.googleanalytics.com
+:: click.googleanalytics.com
+:: alt2.googleanalytics.com
+:: alt4.googleanalytics.com
+:: sandbox.googleanalytics.com
+
+
+# [googleadservices] #
+
+:: googleadservices.com
+:: www.googleadservices.com
+:: pagead2.googleadservices.com
+:: 4.afs.googleadservices.com
+:: partner.googleadservices.com
+
+
+# [googleadsserving] #
+
+:: static.googleadsserving.cn
+
 
 
 # [betotodilea] #
@@ -412,9 +448,6 @@
 :: doubleclick.ne.jp
 :: n4061ad.jp.doubleclick.net
 
-
-
-googlesyndication # TODO
 
 # [trackitalltheway] #
 
@@ -709,6 +742,7 @@ googlesyndication # TODO
 # [googleusercontent] #
 
 :: googleusercontent.com
+:: displayads-formats.googleusercontent.com
 
 
 # [googletagmanager] #
@@ -910,3 +944,9 @@ googlesyndication # TODO
 
 :: app-analytics-v2.snapchat.com
 
+
+# [admobclick] #
+
+:: admobclick.com
+:: www.admobclick.com
+:: pixel.admobclick.com
