@@ -1,12 +1,52 @@
 # Author: João Pinto
 # GitHub: https://github.com/joaopinto14
-# Version: 1.29.2
+# Version: 1.30
 
 
 # [smartadserver] #
 
 :: www8.smartadserver.com
+:: cdn1.smartadserver.com
+:: diff.smartadserver.com
+:: diff3.smartadserver.com
+:: eqx.smartadserver.com
+:: eqx-secure.smartadserver.com
+:: geoced.smartadserver.com
+:: itx4.smartadserver.com
+:: itx4-secure.smartadserver.com
+:: itx5.smartadserver.com
+:: itx5-secure.smartadserver.com
+:: na.smartadserver.com
+:: prg.smartadserver.com
+:: prg3429.smartadserver.com
+:: prg8.smartadserver.com
+:: prga.smartadserver.com
+:: qc.smartadserver.com
 :: rtb-csync.smartadserver.com
+:: rtb-csync-eqx.smartadserver.com
+:: rtb-csync-itx4.smartadserver.com
+:: rtb-csync-itx5.smartadserver.com
+:: rtb-csync-tmk.smartadserver.com
+:: sgp.smartadserver.com
+:: ssb-sgp.smartadserver.com
+:: ssb-us.smartadserver.com
+:: ssbsync.smartadserver.com
+:: ssbsync-geo.smartadserver.com
+:: ssbsync-global.smartadserver.com
+:: ssbsync-sgp.smartadserver.com
+:: ssbsync-us.smartadserver.com
+:: ssp-csync.smartadserver.com
+:: sync.smartadserver.com
+:: tagmanager.smartadserver.com
+:: tmk.smartadserver.com
+:: usw1.smartadserver.com
+:: ww1772.smartadserver.com
+:: ww2060.smartadserver.com
+:: ww2060-sgp.smartadserver.com
+:: ww2951.smartadserver.com
+:: ww3050.smartadserver.com
+:: ww3232.smartadserver.com
+:: www9.smartadserver.com
 
 
 # [mableyable] #
@@ -575,6 +615,12 @@ googlesyndication # TODO
 # [googlesyndication] #
 
 :: tpc.googlesyndication.com
+:: googlesyndication.com
+:: ade.googlesyndication.com
+:: pagead.googlesyndication.com
+:: pagead2.googlesyndication.com
+:: video-ad-stats.googlesyndication.com
+:: buttons.googlesyndication.com
 
 
 # [ggpht] #
