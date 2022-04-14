@@ -1,6 +1,6 @@
 # Author: João Pinto
 # GitHub: https://github.com/joaopinto14
-# Version: 1.28
+# Version: 1.29
 
 
 # [smartadserver] #
@@ -313,6 +313,24 @@
 :: www2.doubleclick.com
 :: www3.doubleclick.com
 :: www.doubleclick.com
+:: ad.rs.doubleclick.net
+:: ad-apac.doubleclick.net
+:: ad.mo.doubleclick.net
+:: adclick.g.doubleclick.net
+:: gan.doubleclick.net
+:: googleads2.g.doubleclick.net
+:: n4061ad.hk.doubleclick.net
+:: ad-ace.doubleclick.net
+:: ad.bg.doubleclick.net
+:: fls.au.doubleclick.net
+:: www.doubleclickbygoogle.com
+:: qevia.doubleclick.bond
+:: ad.ve.doubleclick.net
+:: doubleclick.de
+:: ad.my.doubleclick.net
+:: doubleclick.ne.jp
+:: n4061ad.jp.doubleclick.net
+:: www.doubleclick.ne.jp
 
 
 
