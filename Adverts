@@ -1,6 +1,6 @@
 # Author: João Pinto
 # GitHub: https://github.com/joaopinto14
-# Version: 1.37
+# Version: 1.38
 
 
 # [smartadserver] #
@@ -1050,3 +1050,9 @@
 :: statsfe2.ws.microsoft.com
 :: wes.df.telemetry.microsoft.com
 :: target.microsoft.com
+
+
+# [microsoft] #
+
+:: analytics.tiktok.com
+:: ads.tiktok.com
