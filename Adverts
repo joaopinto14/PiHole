@@ -1,6 +1,6 @@
 # Author: João Pinto
 # GitHub: https://github.com/joaopinto14
-# Version: 1.38
+# Version: 1.38.1
 
 
 # [smartadserver] #
@@ -1052,7 +1052,7 @@
 :: target.microsoft.com
 
 
-# [microsoft] #
+# [tiktok] #
 
 :: analytics.tiktok.com
 :: ads.tiktok.com
