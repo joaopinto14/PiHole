@@ -1,6 +1,6 @@
 # Author: João Pinto
 # GitHub: https://github.com/joaopinto14
-# Version: 1.42
+# Version: 1.43
 
 
 # [smartadserver] #
@@ -1088,3 +1088,8 @@
 # [uwerh] #
 
 :: btt-pt.uwerh.com
+
+
+# [adinplay] #
+
+api.adinplay.com
