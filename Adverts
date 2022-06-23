@@ -1,6 +1,6 @@
 # Author: João Pinto
 # GitHub: https://github.com/joaopinto14
-# Version: 1.40
+# Version: 1.41
 
 
 # [smartadserver] #
@@ -696,6 +696,7 @@
 # [pubmatic] #
 
 :: ads.pubmatic.com
+:: hbopenbid.pubmatic.com
 
 
 # [evidon] #
@@ -1071,3 +1072,16 @@
 
 :: ib.adnxs.com
 :: ib.anycast.adnxs.com
+
+
+# [linkedin] #
+
+:: px.ads.linkedin.com
+:: px4.ads.linkedin.com
+
+
+# [openx] #
+
+:: adinplay-d.openx.net
+
+
