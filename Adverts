@@ -1,6 +1,6 @@
 # Author: João Pinto
 # GitHub: https://github.com/joaopinto14
-# Version: 1.39
+# Version: 1.40
 
 
 # [smartadserver] #
@@ -459,6 +459,15 @@
 :: ad.my.doubleclick.net
 :: doubleclick.ne.jp
 :: n4061ad.jp.doubleclick.net
+:: 0.fls.doubleclick.net
+:: www.doubleclick.de
+:: thngw.doubleclick.net
+:: thngw1.doubleclick.net
+:: thngw2.doubleclick.net
+:: tats.g.doubleclick.net
+:: studio.doubleclick.com
+:: studio.doubleclick.net
+
 
 
 # [trackitalltheway] #
@@ -1056,3 +1065,9 @@
 # [audiencemanager] #
 
 :: ad.audiencemanager.de
+
+
+# [adnxs] #
+
+:: ib.adnxs.com
+:: ib.anycast.adnxs.com
